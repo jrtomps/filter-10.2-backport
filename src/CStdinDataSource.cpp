@@ -8,10 +8,10 @@
      http://www.gnu.org/licenses/gpl.txt
 
      Author:
-             Ron Fox
-	     NSCL
-	     Michigan State University
-	     East Lansing, MI 48824-1321
+     Jeromy Tompkins
+     NSCL
+     Michigan State University
+     East Lansing, MI 48824-1321
 */
 
 
