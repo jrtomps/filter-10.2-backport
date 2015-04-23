@@ -24,6 +24,7 @@ include_HEADERS = CFileDataSink.h \
 			COneShotMediator.h  \
 			CFilterMain.h \
 			StringsToIntegers.h \
+			CFilter.h \
   		CCompositeFilter.h \
 			CStdinDataSource.h \
 			COneShotHandler.h \
