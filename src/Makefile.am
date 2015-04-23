@@ -29,7 +29,8 @@ include_HEADERS = CFileDataSink.h \
 			CStdinDataSource.h \
 			COneShotHandler.h \
 			COneShotException.h  \
-			filterargs.h
+			filterargs.h \
+			CFatalException.h
 
 BUILT_SOURCES = @srcdir@/filterargs.c
 
